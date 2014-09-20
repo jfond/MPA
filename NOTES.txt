@@ -1,0 +1,6 @@
+In order to create the gradient image, in Notepad++ open EditVideo.py and set the variable "Filename" equal to the string defining the name of the file. Do not forget to include the file extension (confirmed functional for .avi files)
+After setting the filename variable, execute the EditVideo.py script in an iPython console and select the Gradient Map option (number 3).
+This will find the gradient of the video and save it in the save directory listed in the EditVideo.py script. 
+Note that the other options here may be geared to handle single images and therefore may be unstable. For analysis of one-photon tools, option 3 is all that is necessary for proper analysis.
+
+To find the plot fo the angular velocity of the wheel, you msut input a couple parameters into the script "OpticalFlow.py" before begining. First, you must get a good estimate of the center of the wheel (i used paint to get an estimate) and then 

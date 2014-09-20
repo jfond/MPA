@@ -1,0 +1,1 @@
+Do not put current > 0.8 A, when you want to turn it off, you must turn the current to 0.
